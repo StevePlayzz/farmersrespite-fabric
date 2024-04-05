@@ -18,7 +18,7 @@
   "block.farmersrespite.white_candle_coffee_cake": "Кофейный торт с белой свечой",
   "block.farmersrespite.orange_candle_coffee_cake": "Кофейный торт с оранжевой свечой",
   "block.farmersrespite.magenta_candle_coffee_cake": "Кофейный торт с пурпурной свечой",
-  "block.farmersrespite.light_blue_candle_coffee_cake": "Кофейный торт со голубой свечой",
+  "block.farmersrespite.light_blue_candle_coffee_cake": "Кофейный торт с голубой свечой",
   "block.farmersrespite.yellow_candle_coffee_cake": "Кофейный торт с жёлтой свечой",
   "block.farmersrespite.lime_candle_coffee_cake": "Кофейный торт с лаймовой свечой",
   "block.farmersrespite.pink_candle_coffee_cake": "Кофейный торт с розовой свечой",
@@ -102,6 +102,6 @@
   "farmersrespite.rei.brewing.noWater": "Вода не требуется",
   "farmersrespite.rei.brewing.needWater": "Требуется 1 стакан воды",
 
-  "farmersrespite.group.main": "Фермерская Передышка",
+  "farmersrespite.group.main": "Фермерская передышка",
   "emi.category.farmersrespite.brewing": "Заваривание"
 }
